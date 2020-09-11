@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\LoginAPP\LoginAPP\bin\Debug\login_db.mdf
+C:\Users\user\source\repos\LoginAPP\LoginAPP\bin\Debug\login_db_log.ldf
+C:\Users\user\source\repos\LoginAPP\LoginAPP\bin\Debug\LoginAPP.exe.config
+C:\Users\user\source\repos\LoginAPP\LoginAPP\bin\Debug\LoginAPP.exe
+C:\Users\user\source\repos\LoginAPP\LoginAPP\bin\Debug\LoginAPP.pdb
+C:\Users\user\source\repos\LoginAPP\LoginAPP\obj\Debug\LoginAPP.csprojAssemblyReference.cache
+C:\Users\user\source\repos\LoginAPP\LoginAPP\obj\Debug\LoginAPP.Form1.resources
+C:\Users\user\source\repos\LoginAPP\LoginAPP\obj\Debug\LoginAPP.Form2.resources
+C:\Users\user\source\repos\LoginAPP\LoginAPP\obj\Debug\LoginAPP.Properties.Resources.resources
+C:\Users\user\source\repos\LoginAPP\LoginAPP\obj\Debug\LoginAPP.csproj.GenerateResource.cache
+C:\Users\user\source\repos\LoginAPP\LoginAPP\obj\Debug\LoginAPP.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\LoginAPP\LoginAPP\obj\Debug\LoginAPP.exe
+C:\Users\user\source\repos\LoginAPP\LoginAPP\obj\Debug\LoginAPP.pdb
